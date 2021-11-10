@@ -1,0 +1,1059 @@
+﻿  Bullet.cpp
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\ToolTip.h(34,77): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\DamageEffect.h(17,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\Bullet.cpp(55,22): warning C4244: '+=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+  Button.cpp
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\ToolTip.h(34,77): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\DamageEffect.h(17,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  DisplayMenu.cpp
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\ToolTip.h(34,77): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\DamageEffect.h(17,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\DisplayMenu.cpp(23,43): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\DisplayMenu.cpp(252,9): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  Enemy.cpp
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\ToolTip.h(34,77): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\DamageEffect.h(17,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\Enemy.cpp(57,46): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\Enemy.cpp(57,68): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\Enemy.cpp(69,71): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\Enemy.cpp(69,104): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\Enemy.cpp(79,47): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\Enemy.cpp(79,73): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\Enemy.cpp(93,51): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\Enemy.cpp(93,73): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\Enemy.cpp(303,46): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\Enemy.cpp(303,58): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\Enemy.cpp(309,43): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\Enemy.cpp(309,57): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\Enemy.cpp(315,43): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\Enemy.cpp(315,57): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\Enemy.cpp(321,46): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\Enemy.cpp(321,58): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\Enemy.cpp(359,18): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  GameManager.cpp
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\ToolTip.h(34,77): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\DamageEffect.h(17,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\GameManager.cpp(221,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\GameManager.cpp(228,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\GameManager.cpp(258,89): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  GameOverState.cpp
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\ToolTip.h(34,77): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\DamageEffect.h(17,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\GameOverState.cpp(44,79): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\GameOverState.cpp(44,49): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  GameState.cpp
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\ToolTip.h(34,77): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\DamageEffect.h(17,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\GameState.cpp(76,69): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\GameState.cpp(100,107): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\GameState.cpp(100,77): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\GameState.cpp(115,73): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\GameState.cpp(295,110): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\GameState.cpp(295,80): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\GameState.cpp(299,94): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\GameState.cpp(299,64): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  HelpState.cpp
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\ToolTip.h(34,77): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\DamageEffect.h(17,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\HelpState.h(15,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\HelpState.cpp(17,85): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\HelpState.cpp(17,55): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  IceBullet.cpp
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\ToolTip.h(34,77): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\DamageEffect.h(17,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\IceBullet.cpp(12,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\IceBullet.cpp(22,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  IceTower.cpp
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\ToolTip.h(34,77): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\DamageEffect.h(17,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\IceTower.cpp(33,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\IceTower.cpp(35,154): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  LevelManager.cpp
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\ToolTip.h(34,77): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\DamageEffect.h(17,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\LevelManager.cpp(67,20): warning C4018: '<': signed/unsigned mismatch
+  MapSelectionState.cpp
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\ToolTip.h(34,77): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\DamageEffect.h(17,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\MapSelectionState.h(20,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\MapSelectionState.cpp(23,85): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\MapSelectionState.cpp(23,55): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  MenuState.cpp
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\ToolTip.h(34,77): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\DamageEffect.h(17,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\MenuState.h(23,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\Particle.h(27,24): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\Particle.h(28,24): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\Particle.h(51,1): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\MenuState.cpp(38,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\MenuState.cpp(44,85): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\MenuState.cpp(44,55): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\MenuState.cpp(153,104): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\MenuState.cpp(153,92): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\MenuState.cpp(154,105): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\MenuState.cpp(154,93): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\MenuState.cpp(175,106): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\MenuState.cpp(175,94): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\MenuState.cpp(176,106): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\MenuState.cpp(176,94): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  MortarTower.cpp
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\ToolTip.h(34,77): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\DamageEffect.h(17,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\MortarTower.cpp(30,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  ScoreState.cpp
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\ToolTip.h(34,77): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\DamageEffect.h(17,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\ScoreState.cpp(64,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\ScoreState.cpp(69,69): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\ScoreState.cpp(85,85): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\ScoreState.cpp(85,55): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  SkillState.cpp
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\ToolTip.h(34,77): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\DamageEffect.h(17,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\SkillState.cpp(19,85): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\SkillState.cpp(19,55): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  Source.cpp
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\ToolTip.h(34,77): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\DamageEffect.h(17,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\MenuState.h(23,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\MapSelectionState.h(20,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\HelpState.h(15,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\Source.cpp(11,5): warning C4007: 'WinMain': must be '__stdcall'
+  Spell.cpp
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\ToolTip.h(34,77): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\DamageEffect.h(17,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\Spell.cpp(11,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\Spell.cpp(57,28): warning C4244: '+=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+  State.cpp
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\ToolTip.h(34,77): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\DamageEffect.h(17,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  WindBullet.cpp
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\ToolTip.h(34,77): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\DamageEffect.h(17,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\WindBullet.cpp(22,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Compiling...
+  WizardTower.cpp
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\ToolTip.h(34,77): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\DamageEffect.h(17,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\WizardTower.cpp(32,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  arrowTower.cpp
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\ToolTip.h(34,77): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\DamageEffect.h(17,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  basicTower.cpp
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\ToolTip.h(34,77): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\DamageEffect.h(17,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  magicTower.cpp
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\ToolTip.h(34,77): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\DamageEffect.h(17,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\magicTower.cpp(30,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  map.cpp
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\ToolTip.h(34,77): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\DamageEffect.h(17,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\map.cpp(16,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\map.cpp(32,49): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\map.cpp(32,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\map.cpp(45,38): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\map.cpp(45,26): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\map.cpp(58,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\map.cpp(90,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\map.cpp(144,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\map.cpp(163,23): warning C4018: '<': signed/unsigned mismatch
+  path.cpp
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\ToolTip.h(34,77): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\DamageEffect.h(17,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(26,63): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(26,77): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(27,41): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(27,55): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(29,63): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(29,80): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(30,41): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(30,58): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(32,63): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(32,80): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(33,41): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(33,58): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(47,42): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(47,58): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(48,39): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(48,55): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(50,38): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(50,51): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(52,42): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(52,58): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(53,39): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(53,55): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(63,63): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(63,77): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(64,41): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(64,55): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(66,63): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(66,80): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(67,41): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(67,58): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(71,42): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(71,58): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(72,39): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(72,55): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(74,38): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(74,51): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(76,42): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(76,58): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(77,39): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(77,55): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(82,64): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(82,81): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(83,41): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(83,58): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(85,64): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(85,81): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(86,41): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(86,58): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(93,61): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(93,77): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(94,38): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(94,54): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(96,65): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(96,82): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(97,41): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(97,58): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(101,45): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(101,59): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(102,42): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(102,56): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(104,38): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(104,51): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(106,45): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(106,59): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(107,42): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(107,56): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(111,64): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(111,81): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(112,41): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(112,58): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(120,42): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(120,58): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(121,39): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(121,55): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(123,45): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(123,62): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(124,42): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(124,59): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(136,45): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(136,59): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(137,42): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(137,56): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(139,38): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(139,51): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(141,45): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(141,59): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(142,42): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\path.cpp(142,56): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  poisonTower.cpp
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\ToolTip.h(34,77): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\DamageEffect.h(17,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\poisonTower.cpp(30,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  tower.cpp
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\ToolTip.h(34,77): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\DamageEffect.h(17,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\tower.cpp(37,143): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\tower.cpp(37,85): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\tower.cpp(153,81): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\tower.cpp(153,130): warning C4244: 'argument': conversion from 'const T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\tower.cpp(159,165): warning C4244: 'argument': conversion from 'const T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Shado\source\repos\Tower_Defense\Tower_Defense\tower.cpp(159,160): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating Code...
+  Tower_Defense.vcxproj -> C:\Users\Shado\source\repos\Tower_Defense\Debug\Tower_Defense.exe

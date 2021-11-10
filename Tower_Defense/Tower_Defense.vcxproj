@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>16.0</VCProjectVersion>
+    <Keyword>Win32Proj</Keyword>
+    <ProjectGuid>{d77af6c8-a768-4268-9bbe-5ae99a027bce}</ProjectGuid>
+    <RootNamespace>TowerDefense</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <AdditionalIncludeDirectories>C:\Users\Shado\Desktop\SFML-2.5.1\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalLibraryDirectories>C:\Users\Shado\Desktop\SFML-2.5.1\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>sfml-graphics-d.lib;sfml-window-d.lib;sfml-audio-d.lib;sfml-system-d.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <AdditionalIncludeDirectories>C:\Users\Shado\Desktop\SFML-2.5.1\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalDependencies>sfml-graphics.lib;sfml-window.lib;sfml-audio.lib;sfml-system.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalLibraryDirectories>C:\Users\Shado\Desktop\SFML-2.5.1\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="ArrowBullet.cpp" />
+    <ClCompile Include="arrowTower.cpp" />
+    <ClCompile Include="BlueMinotaur.cpp" />
+    <ClCompile Include="Bullet.cpp" />
+    <ClCompile Include="CountDown.cpp" />
+    <ClCompile Include="DamageEffect.cpp" />
+    <ClCompile Include="Enemy.cpp" />
+    <ClCompile Include="basicTower.cpp" />
+    <ClCompile Include="FireBullet.cpp" />
+    <ClCompile Include="Foilage.cpp" />
+    <ClCompile Include="GameOverState.cpp" />
+    <ClCompile Include="GameState.cpp" />
+    <ClCompile Include="HealthBar.cpp" />
+    <ClCompile Include="HelpState.cpp" />
+    <ClCompile Include="IceBullet.cpp" />
+    <ClCompile Include="IceTower.cpp" />
+    <ClCompile Include="LevelManager.cpp" />
+    <ClCompile Include="MagicBullet.cpp" />
+    <ClCompile Include="magicTower.cpp" />
+    <ClCompile Include="DisplayMenu.cpp" />
+    <ClCompile Include="Button.cpp" />
+    <ClCompile Include="MapSelectionState.cpp" />
+    <ClCompile Include="MenuState.cpp" />
+    <ClCompile Include="Minotaur.cpp" />
+    <ClCompile Include="MortarTower.cpp" />
+    <ClCompile Include="MudBullet.cpp" />
+    <ClCompile Include="Particle.cpp" />
+    <ClCompile Include="PoisonBullet.cpp" />
+    <ClCompile Include="poisonTower.cpp" />
+    <ClCompile Include="ScoreState.cpp" />
+    <ClCompile Include="SkillState.cpp" />
+    <ClCompile Include="SkillSystem.cpp" />
+    <ClCompile Include="Spell.cpp" />
+    <ClCompile Include="State.cpp" />
+    <ClCompile Include="TextureManager.cpp" />
+    <ClCompile Include="Source.cpp" />
+    <ClCompile Include="map.cpp" />
+    <ClCompile Include="path.cpp" />
+    <ClCompile Include="ConstructionMenu.cpp" />
+    <ClCompile Include="GameManager.cpp" />
+    <ClCompile Include="Tile.cpp" />
+    <ClCompile Include="ToolTip.cpp" />
+    <ClCompile Include="tower.cpp" />
+    <ClCompile Include="Troll.cpp" />
+    <ClCompile Include="WindBullet.cpp" />
+    <ClCompile Include="WizardTower.cpp" />
+    <ClCompile Include="Wraith.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ArrowBullet.h" />
+    <ClInclude Include="basicTower.h" />
+    <ClInclude Include="BlueMinotaur.h" />
+    <ClInclude Include="button.h" />
+    <ClInclude Include="ConstructionMenu.h" />
+    <ClInclude Include="CountDown.h" />
+    <ClInclude Include="DamageEffect.h" />
+    <ClInclude Include="Enemy.h" />
+    <ClInclude Include="FireBullet.h" />
+    <ClInclude Include="Foilage.h" />
+    <ClInclude Include="GameManager.h" />
+    <ClInclude Include="arrowTower.h" />
+    <ClInclude Include="Bullet.h" />
+    <ClInclude Include="DisplayMenu.h" />
+    <ClInclude Include="GameOverState.h" />
+    <ClInclude Include="GameState.h" />
+    <ClInclude Include="HealthBar.h" />
+    <ClInclude Include="HelpState.h" />
+    <ClInclude Include="IceBullet.h" />
+    <ClInclude Include="IceTower.h" />
+    <ClInclude Include="LevelManager.h" />
+    <ClInclude Include="MagicBullet.h" />
+    <ClInclude Include="magicTower.h" />
+    <ClInclude Include="MapSelectionState.h" />
+    <ClInclude Include="MenuState.h" />
+    <ClInclude Include="Minotaur.h" />
+    <ClInclude Include="MortarTower.h" />
+    <ClInclude Include="MudBullet.h" />
+    <ClInclude Include="Particle.h" />
+    <ClInclude Include="PoisonBullet.h" />
+    <ClInclude Include="poisonTower.h" />
+    <ClInclude Include="ScoreState.h" />
+    <ClInclude Include="SkillState.h" />
+    <ClInclude Include="SkillSystem.h" />
+    <ClInclude Include="Spell.h" />
+    <ClInclude Include="State.h" />
+    <ClInclude Include="States.h" />
+    <ClInclude Include="TextureManager.h" />
+    <ClInclude Include="Tile.h" />
+    <ClInclude Include="ToolTip.h" />
+    <ClInclude Include="tower.h" />
+    <ClInclude Include="path.h" />
+    <ClInclude Include="map.h" />
+    <ClInclude Include="Troll.h" />
+    <ClInclude Include="WindBullet.h" />
+    <ClInclude Include="WizardTower.h" />
+    <ClInclude Include="Wraith.h" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

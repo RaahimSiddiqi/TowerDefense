@@ -1,0 +1,5 @@
+--------GAME LOG-------------
+OEM ID: 0
+Processor Type: 586
+Number of Processors: 8
+Page File Size: 4096

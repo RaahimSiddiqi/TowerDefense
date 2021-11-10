@@ -1,0 +1,51 @@
+--------GAME LOG-------------
+OEM ID: 0
+Processor Type: 586
+Number of Processors: 8
+Page File Size: 4096
+Rendering Map
+Toggled off Tile Mode (MAP)
+Rendering Foilage
+Rendering Foilage
+Rendering Foilage
+Rendering Foilage
+Rendering Foilage
+Rendering Foilage
+Rendering Foilage
+Rendering Foilage
+Rendering Foilage
+Rendering Foilage
+Begin Wave 1
+Toggled On Tile Mode (MAP)
+Created basicTower
+Toggled off Tile Mode (MAP)
+Toggled On Tile Mode (MAP)
+Created arrowTowerTower!
+Toggled off Tile Mode (MAP)
+Begin Wave 2
+Toggled On Tile Mode (MAP)
+Created magicTowerTower!
+Toggled off Tile Mode (MAP)
+Toggled On Tile Mode (MAP)
+Created wizardTowerTower!
+Begin Wave 3
+Toggled off Tile Mode (MAP)
+Begin Wave 4
+Begin Wave 5
+Begin Wave 6
+Toggled On Tile Mode (MAP)
+Created IceTowerSpritesTower!
+Toggled off Tile Mode (MAP)
+Begin Wave 7
+Toggled On Tile Mode (MAP)
+Created magicTowerTower!
+Begin Wave 8
+Toggled off Tile Mode (MAP)
+Begin Wave 9
+Begin Wave 10
+Toggled On Tile Mode (MAP)
+Created arrowTowerTower!
+Toggled off Tile Mode (MAP)
+Toggled On Tile Mode (MAP)
+Created basicTower
+Toggled off Tile Mode (MAP)
